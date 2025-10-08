@@ -3,6 +3,7 @@ Python Console Contact Book
 This project is a simple, menu-driven Contact Book application implemented in Python. It demonstrates fundamental Python programming by managing contact data in memory (using a dictionary).
 
 🌐Features
+
 The application provides a comprehensive set of contact management features:
 
   🔶Add Contact: Users can input a name and phone number (and easily extend to include email/address).
@@ -18,8 +19,9 @@ The application provides a comprehensive set of contact management features:
   🔶User Interface: A simple, easy-to-use text-based menu for interaction.
 
 🌐How to Run
+
   1️⃣Save the code as a Python file (e.g., contact_book.py).
 
   2️⃣Run the script from your terminal:
 
-            python contact_book.py
+https://github.com/Abir-2005/Contact_book-Python-/blob/main/Contact_book.py
